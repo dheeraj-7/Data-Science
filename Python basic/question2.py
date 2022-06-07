@@ -1,3 +1,6 @@
+'''Python program to create a database having 10 students data. Each student field should contain data like (id,name,ssc marks,
+inter marks,btech cgpa latest,prog. lang. , career option)'''
+
 records={
     101:[1,'Dheeraj',9.8,971,8.92,'python','data scientist'],
     102:[2,'Lakshma',10,982,8.93,'python','data scientist'],
