@@ -1,3 +1,10 @@
+'''Calculate income tax to be paid by the emp[loyee by taking his annual income,hra,other daductions as input.
+The rate of tax is:
+    below 3 lakhs - no tax
+    between 3 lakhs to 6 lakhs - 10% intrest
+    between 6 lakhs to 10 lakhs - 15% intrest
+    above 10 lakhs - 20% intrest'''
+
 ai=float(input('Enter annual income: '))
 hra=float(input('Enter HRA: '))
 ded=float(input('Enter other deductions: '))
