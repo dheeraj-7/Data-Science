@@ -1,3 +1,6 @@
+'''Take input from user and from computer. Now according to dice game, the winner is one who 
+gets max value and display the winner.'''
+
 import random
 t=int(input())
 for i in range(t):
