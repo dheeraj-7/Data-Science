@@ -1,3 +1,5 @@
+'''Take any number. Tell if prime or not,even or not,divisible by 5 or not,calculate sum of all values upto that number'''
+
 def prime(n):
     flag=True
     for i in range(2,n//2):
