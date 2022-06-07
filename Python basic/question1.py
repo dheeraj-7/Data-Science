@@ -3,7 +3,8 @@ The rate of tax is:
     below 3 lakhs - no tax
     between 3 lakhs to 6 lakhs - 10% intrest
     between 6 lakhs to 10 lakhs - 15% intrest
-    above 10 lakhs - 20% intrest'''
+    above 10 lakhs - 20% intrest
+Max amount of deductions allowable is 80000'''
 
 ai=float(input('Enter annual income: '))
 hra=float(input('Enter HRA: '))
